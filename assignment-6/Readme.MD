@@ -44,3 +44,8 @@ The AsyncStorage library provides a method called getItem() for retrieving data.
 
 ## Making Contributions:
  We appreciate your efforts to make the application better. Kindly do not hesitate to make a pull request.
+
+### Screenshots 
+![alt text](assets/screenshot.png)
+![alt text](assets/screenshot2.png)
+![alt text](assets/screenshot3.png)
